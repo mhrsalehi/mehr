@@ -6,5 +6,6 @@ public class Main {
         System.out.println("Hello World!");
         String master = "masterrrrrrrrrrrrrrrrrrrrrrrrrrrrrr";
         String master2 = "masterrrrrrrrrrrrrrrrrrrrrrrrrrrrrr";
+        String master3 = "masterrrrrrrrrrrrrrrrrrrrrrrrrrrrrr";
     }
 }
